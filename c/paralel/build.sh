@@ -1,0 +1,1 @@
+gcc -o c/paralel/wordcounter c/paralel/paralel.c

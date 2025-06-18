@@ -1,0 +1,1 @@
+gcc -o c/serial/wordcounter c/serial/serial.c
