@@ -1,0 +1,2 @@
+cd haskell 
+cabal build
